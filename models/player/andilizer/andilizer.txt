@@ -1,0 +1,19 @@
+ 		- Andilizer Model -
+
+Author 	    :	Andy 'Andilizer' Vinall
+Contact     :   email: andy@whitevine.com | icq: 16549676 
+Description : 	A fantasy monster imerged from the greenland, Frulaksie.
+		He battled dangerous enemies and sped his way through
+		rough tracks and paths, exploring and discovering places
+		beyond his imagination ...
+		Ok, Ok, that was pretty lame...but eh :)
+		Andilizer got his name after myself....LOL... it's basically
+		a model I use ingame. If ya want all that technical stuff..
+		this baby has 52 bones! 20 Hit boxes (wtf :P), 77 sequences..
+		ahh stuff it :)
+
+		Anyways, have fun wit the model! 
+
+		Andy 'Andilizer' Vinall
+		[MKK]-Andilizer- 
+		
