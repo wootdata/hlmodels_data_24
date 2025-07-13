@@ -1,17 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 25,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 25,
+			"bone": 19,
 			"name": "",
 			"type": 0
 		}
@@ -20,9 +20,19 @@
 		{
 			"models": [
 				{
-					"name": "Luigi",
-					"polys": 461,
-					"verts": 244
+					"name": "body1",
+					"polys": 1627,
+					"verts": 845
+				}
+			],
+			"name": "body"
+		}, 
+		{
+			"models": [
+				{
+					"name": "body2",
+					"polys": 2663,
+					"verts": 1381
 				}
 			],
 			"name": "body"
@@ -31,7 +41,7 @@
 	"colorable": false,
 	"controllers": [
 		{
-			"bone": 12,
+			"bone": 7,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -39,7 +49,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 13,
+			"bone": 8,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -47,7 +57,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 14,
+			"bone": 9,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -55,7 +65,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 15,
+			"bone": 10,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -63,7 +73,7 @@
 			"type": 8
 		}
 	],
-	"date": 1033415136,
+	"date": 1137276812,
 	"events": [
 		{
 			"event": 2001,
@@ -172,12 +182,12 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "21f0a2f0bc5b3a56738183ff71f7eda3",
+	"md5": "c3989760b318bc95299446dfdbb80801",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "Luigi.mdl",
+	"name": "barney.mdl",
 	"preview": true,
-	"readme": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
@@ -566,7 +576,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 351620,
+	"size": 834076,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -585,36 +595,16 @@
 			"parent": 2
 		}, 
 		{
-			"name": "Bip01 L Foot",
-			"parent": 3
-		}, 
-		{
-			"name": "Bip01 L Toe0",
-			"parent": 4
-		}, 
-		{
-			"name": "Bip01 L Toe01",
-			"parent": 5
-		}, 
-		{
 			"name": "Bip01 R Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 7
+			"parent": 4
 		}, 
 		{
 			"name": "Bip01 R Foot",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 R Toe0",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 R Toe01",
-			"parent": 10
+			"parent": 5
 		}, 
 		{
 			"name": "Bip01 Spine",
@@ -622,55 +612,59 @@
 		}, 
 		{
 			"name": "Bip01 Spine1",
-			"parent": 12
+			"parent": 7
 		}, 
 		{
 			"name": "Bip01 Spine2",
-			"parent": 13
+			"parent": 8
 		}, 
 		{
 			"name": "Bip01 Spine3",
-			"parent": 14
+			"parent": 9
 		}, 
 		{
 			"name": "Bip01 Neck",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 Head",
-			"parent": 16
+			"parent": 10
 		}, 
 		{
 			"name": "Bip01 L Arm",
-			"parent": 16
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 18
+			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm2",
-			"parent": 19
+			"parent": 13
 		}, 
 		{
 			"name": "Bip01 L Hand",
-			"parent": 20
+			"parent": 14
 		}, 
 		{
 			"name": "Bip01 R Arm",
-			"parent": 16
+			"parent": 11
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 22
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 23
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Hand",
-			"parent": 24
+			"parent": 18
+		}, 
+		{
+			"name": "Bip01 L Foot",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 11
 		}
 	],
 	"skins": 1,
@@ -678,15 +672,15 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "head.bmp",
-			"width": 256
+			"height": 512,
+			"name": "Zombie_Classic_sheet.bmp",
+			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "body.bmp",
-			"width": 256
+			"height": 512,
+			"name": "headcrabsheet.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
