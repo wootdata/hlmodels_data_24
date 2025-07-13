@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1578576049,
 	"events": [
 		{
 			"event": 5011,
@@ -200,7 +202,11 @@
 	],
 	"id": 1414743113,
 	"md5": "d8db4bb7b51845a6a64e2001786ec875",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\gens kega fusion y los mejores room\\Programas\\Milkshape 3D stx",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

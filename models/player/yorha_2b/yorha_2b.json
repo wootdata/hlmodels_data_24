@@ -168,6 +168,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -202,6 +203,7 @@
 			"type": 8
 		}
 	],
+	"date": 1633657352,
 	"events": [
 		{
 			"event": 2001,
@@ -311,7 +313,11 @@
 	],
 	"id": 1414743113,
 	"md5": "136e8c4493c9555afc2413f22f095cf4",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\Danara\\Desktop\\gman\\Gman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

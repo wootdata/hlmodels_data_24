@@ -18,6 +18,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 18,
@@ -60,6 +61,7 @@
 			"type": 32
 		}
 	],
+	"date": 1592403211,
 	"events": [
 		{
 			"event": 1004,
@@ -239,7 +241,11 @@
 	],
 	"id": 1414743113,
 	"md5": "48059e7efca46caa60430d976e93e70e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Keller.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

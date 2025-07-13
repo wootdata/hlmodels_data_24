@@ -38,6 +38,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1581998594,
 	"events": [
 		{
 			"event": 2001,
@@ -195,7 +197,11 @@
 	],
 	"id": 1414743113,
 	"md5": "405db2b2b40276c8fa2ef83775aecbcc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\scientist80\\scientist80.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -78,6 +78,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 6,
@@ -112,6 +113,7 @@
 			"type": 8
 		}
 	],
+	"date": 1715130002,
 	"events": [
 		{
 			"event": 2001,
@@ -221,7 +223,11 @@
 	],
 	"id": 1414743113,
 	"md5": "6a36c287406b9d7ed7ab3e32c48d7e60",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Dina.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
