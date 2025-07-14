@@ -180,6 +180,7 @@
 	"md5": "c43fd2a8a312b1f4987adb7f741486c2",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/Hgrunt/robot1.mdl",
 	"preview": true,
 	"readme": false,

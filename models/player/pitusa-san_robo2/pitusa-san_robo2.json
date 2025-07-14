@@ -180,6 +180,7 @@
 	"md5": "e8992f1c8e46a3f982fec178d5f91830",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/robo/robo.mdl",
 	"preview": true,
 	"readme": false,
