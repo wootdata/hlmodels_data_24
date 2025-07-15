@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cv-albert wesker
+Source Model Hash : 75b51be91477790d795c0daf44bc68fe
+Source Model Date : 1130425200 (2005/10/27)
+
+Ported Model Name : cv-albert wesker_v1sc
+Ported Model Hash : fb02b6287aefb77aebb814c963ce62cc
+Ported Model Date : 1752491569 (2025/07/14)

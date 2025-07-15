@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : roggesemmel
+Source Model Hash : 55b235431a80614d8164fe9784574ef0
+Source Model Date : 1590531852 (2020/05/26)
+
+Ported Model Name : roggesemmel_v1sc
+Ported Model Hash : 83e42ce8be1c3b623d3a41803e9f7f4a
+Ported Model Date : 1752492220 (2025/07/14)

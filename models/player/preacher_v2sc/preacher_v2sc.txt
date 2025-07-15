@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : preacher_v2
+Source Model Hash : 7c395b7457284e3d14ec83d19bc4431f
+Source Model Date : 1583384538 (2020/03/04)
+
+Ported Model Name : preacher_v2sc
+Ported Model Hash : b1c5d1a5e394a9eba86cda327299401c
+Ported Model Date : 1752492167 (2025/07/14)

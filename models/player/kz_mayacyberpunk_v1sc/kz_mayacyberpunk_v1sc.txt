@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_mayacyberpunk
+Source Model Hash : 1f0e49cf723c382ca69490ace4063c44
+Source Model Date : 1681661434 (2023/04/16)
+
+Ported Model Name : kz_mayacyberpunk_v1sc
+Ported Model Hash : c21703537c202efe0675ae84673f3ddf
+Ported Model Date : 1752491923 (2025/07/14)

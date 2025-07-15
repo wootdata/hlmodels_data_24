@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : allied2-fixed
+Source Model Hash : 02739b6c0a043298cc3467c8ff7208c9
+Source Model Date : 1612320124 (2021/02/02)
+
+Ported Model Name : allied2-fixed_v1sc
+Ported Model Hash : fcb24647c4a74f0b78d2411399ae9fb4
+Ported Model Date : 1752491353 (2025/07/14)

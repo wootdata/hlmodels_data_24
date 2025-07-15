@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jennifer_hev_v2
+Source Model Hash : 3be9ecc4195109ff8dd0e4a81c8fc707
+Source Model Date : 1455811447 (2016/02/18)
+
+Ported Model Name : jennifer_hev_v2sc
+Ported Model Hash : ad1f56e17d97f032cfa5dec5a07de251
+Ported Model Date : 1752491860 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vinnie_gognitti
+Source Model Hash : 1846f38f9fc850d29058560c90d8986c
+Source Model Date : 1457319622 (2016/03/06)
+
+Ported Model Name : vinnie_gognitti_v1sc
+Ported Model Hash : 008e2eb55f9569e399beb9f45b4952fe
+Ported Model Date : 1752492492 (2025/07/14)

@@ -1,0 +1,29 @@
+W2H  PC-PunisherDTEC2 Skin
+
+A variation of the PC DTEC skin using the DTEC Model on to 
+the Punisher Model. Thanks to the creator of such a cool skin.
+
+Note: Please load Skin so you can see me if I am playing, 
+Please don't use this as a playerskin, Due to that it is my
+ face on it. :)   Thanks.
+
+Feel free to contact me at pcpunisher@Earthlink.net
+or ICQ 9925070
+and please distribute this file.
+
+Edward E. White   AKA W2H- PC Punisher
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : w2hpcpundtec2
+Source Model Hash : c8db14524c897195fe9df0159320e040
+Source Model Date : 1591341535 (2020/06/05)
+
+Ported Model Name : w2hpcpundtec2_v1sc
+Ported Model Hash : 8dbca295568f57c14796cb934ea5ac17
+Ported Model Date : 1752492500 (2025/07/14)

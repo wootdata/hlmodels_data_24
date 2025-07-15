@@ -1,0 +1,29 @@
+Postal Dude for Sven Co-op 4.0b
+
+originally created by someone other than me - they took Postal Dude's textures and applied them to the Gordon TS model. The TS version and credits can be found here: http://www.fpsbanana.com/skins/42553
+
+
+
+I (Marb750) modified the mesh, rigging, UV and textures.  I removed the ponytail and added the smiley-button. I added SC4.0b animations and proper muzzle flashes. 
+
+********************************************************************************************
+
+EDIT: 12/03/2017
+
+Model updated to work with Sven Co-op 5+
+By HyPNOS (Aka Rikimaru Sven Forums)
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : postal_dude
+Source Model Hash : 9e34f04c1d494580d7e87c5725bfe76a
+Source Model Date : 1489351000 (2017/03/12)
+
+Ported Model Name : postal_dude_v1sc
+Ported Model Hash : f6abf5dd556fcce8bfe86b07162f1ab2
+Ported Model Date : 1752492163 (2025/07/14)

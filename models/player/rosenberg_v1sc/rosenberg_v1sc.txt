@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rosenberg
+Source Model Hash : a9cbc583d26227bcafa0a7ec28aca12b
+Source Model Date : 1269526594 (2010/03/25)
+
+Ported Model Name : rosenberg_v1sc
+Ported Model Hash : cc95f2835becb3fa3a0d41d42fb6a79a
+Ported Model Date : 1752492221 (2025/07/14)

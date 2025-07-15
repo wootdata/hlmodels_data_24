@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : b2gabriellab
+Source Model Hash : 405bd29e613f6d818784564b78e84cd4
+Source Model Date : 1615531366 (2021/03/11)
+
+Ported Model Name : b2gabriellab_v1sc
+Ported Model Hash : 15976c0fded835d9cece8b47f8b0b3db
+Ported Model Date : 1752491394 (2025/07/14)

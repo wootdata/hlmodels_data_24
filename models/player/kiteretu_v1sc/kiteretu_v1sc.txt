@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kiteretu
+Source Model Hash : 9c43ab11fbe70602144e3235f15d0e22
+Source Model Date : 1263861518 (2010/01/18)
+
+Ported Model Name : kiteretu_v1sc
+Ported Model Hash : 1e9c462db0b88e86b51dac60c734cfd0
+Ported Model Date : 1752491890 (2025/07/14)

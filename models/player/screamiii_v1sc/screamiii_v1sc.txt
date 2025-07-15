@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : screamiii
+Source Model Hash : 273a3ac0e5c55d1afbd0d1652fb86cbc
+Source Model Date : 1269801761 (2010/03/28)
+
+Ported Model Name : screamiii_v1sc
+Ported Model Hash : 900407789d4db656ecd91dcc30674e97
+Ported Model Date : 1752492249 (2025/07/14)

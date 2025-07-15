@@ -1,0 +1,20 @@
+Egypt Female (B)
+
+Thanks to Unreal Tournament 2003 modellers.
+
+Model converted and partially modified by XWider.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : egyptfemaleb
+Source Model Hash : 0ed645db0be0ef2d5d83302b0dacdb27
+Source Model Date : 1426770866 (2015/03/19)
+
+Ported Model Name : egyptfemaleb_v1sc
+Ported Model Hash : 7c8c4ea3a3248bb5d0bce04623158ae7
+Ported Model Date : 1752491629 (2025/07/14)

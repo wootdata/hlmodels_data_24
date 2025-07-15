@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yoh_asakura
+Source Model Hash : c256eaf972228cce23f692504e0e6094
+Source Model Date : 1462727296 (2016/05/08)
+
+Ported Model Name : yoh_asakura_v1sc
+Ported Model Hash : f6d4126c4ae34d0d016e02af465ab42f
+Ported Model Date : 1752492521 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blossom
+Source Model Hash : 66409c783bf65a189476d852e576bea4
+Source Model Date : 1425578888 (2015/03/05)
+
+Ported Model Name : blossom_v1sc
+Ported Model Hash : f874e7c639afaac9c8e0fb6c49e437b9
+Ported Model Date : 1752491436 (2025/07/14)

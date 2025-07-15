@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lt_naruto
+Source Model Hash : e0f23563f41f4bd2242fcc0f159ace95
+Source Model Date : 1541883057 (2018/11/10)
+
+Ported Model Name : lt_naruto_v1sc
+Ported Model Hash : cd42bed63fc0c38b02358d50d8ff3a3a
+Ported Model Date : 1752491969 (2025/07/14)

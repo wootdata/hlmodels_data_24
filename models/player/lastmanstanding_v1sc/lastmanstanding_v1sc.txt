@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lastmanstanding
+Source Model Hash : e95e65e7805083d4db2b83454d2ffd75
+Source Model Date : 1264013945 (2010/01/20)
+
+Ported Model Name : lastmanstanding_v1sc
+Ported Model Hash : 5547cb30124e19910ee0609a66845829
+Ported Model Date : 1752491939 (2025/07/14)

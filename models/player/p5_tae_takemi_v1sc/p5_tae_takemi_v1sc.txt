@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : p5_tae_takemi
+Source Model Hash : 39d8240e5b7626d79728808a6e4f65f8
+Source Model Date : 1732451212 (2024/11/24)
+
+Ported Model Name : p5_tae_takemi_v1sc
+Ported Model Hash : cb3b242d4242a0d3b89959487445c3fd
+Ported Model Date : 1752492141 (2025/07/14)

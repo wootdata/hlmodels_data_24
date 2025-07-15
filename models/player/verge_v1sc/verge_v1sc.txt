@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : verge
+Source Model Hash : 747a1ba72705f184d00801333f95b59e
+Source Model Date : 1264533030 (2010/01/26)
+
+Ported Model Name : verge_v1sc
+Ported Model Hash : dbfce234d09dfac1cfc81bc39789f55e
+Ported Model Date : 1752492491 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mikuwhite
+Source Model Hash : 1a91fe309654e3cf551e037ecf71310d
+Source Model Date : 1446119926 (2015/10/29)
+
+Ported Model Name : mikuwhite_v1sc
+Ported Model Hash : 54119db26bf0c9c14f051a14af97c49d
+Ported Model Date : 1752492021 (2025/07/14)

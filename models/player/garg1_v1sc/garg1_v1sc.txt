@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : garg1
+Source Model Hash : f96d8ac7afc746c9d34a0c6ee4607485
+Source Model Date : 1265121224 (2010/02/02)
+
+Ported Model Name : garg1_v1sc
+Ported Model Hash : b3e6c2d36bec5969cde71764d304066e
+Ported Model Date : 1752491672 (2025/07/14)

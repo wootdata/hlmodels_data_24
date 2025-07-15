@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jeanluc
+Source Model Hash : f1040168e20d4a2b7b8f4db20b965995
+Source Model Date : 1429463224 (2015/04/19)
+
+Ported Model Name : jeanluc_v1sc
+Ported Model Hash : 590e6938851dc58d3d34c33ed4ffbf1c
+Ported Model Date : 1752491859 (2025/07/14)

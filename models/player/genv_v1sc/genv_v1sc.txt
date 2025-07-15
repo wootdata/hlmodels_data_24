@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : genv
+Source Model Hash : 92e0758dc57c31a6aeea6dc9e6565e28
+Source Model Date : 1265122525 (2010/02/02)
+
+Ported Model Name : genv_v1sc
+Ported Model Hash : 8e97d7964e8eea972b25350423c9154e
+Ported Model Date : 1752491675 (2025/07/14)

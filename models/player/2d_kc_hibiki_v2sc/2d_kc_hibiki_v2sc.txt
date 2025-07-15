@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_kc_hibiki_v2
+Source Model Hash : 99da210c924a6c47634f90cafedc10f6
+Source Model Date : 1554200128 (2019/04/02)
+
+Ported Model Name : 2d_kc_hibiki_v2sc
+Ported Model Hash : a4925100de724657bc3d043b52024a75
+Ported Model Date : 1752491313 (2025/07/14)

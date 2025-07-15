@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hl_construction_dcp
+Source Model Hash : ae26d8a202e8896f5c7035a329556d98
+Source Model Date : 1635553698 (2021/10/29)
+
+Ported Model Name : hl_construct_dcp_v1sc
+Ported Model Hash : 2732106a7686c248842e9593c6825290
+Ported Model Date : 1752491806 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : usgirl1
+Source Model Hash : 5afaf4bdf919be3f6604db2fb5d8941c
+Source Model Date : 1264166751 (2010/01/22)
+
+Ported Model Name : usgirl1_v1sc
+Ported Model Hash : 4504bbdacb298b3447a6f7cd90f089e1
+Ported Model Date : 1752492482 (2025/07/14)

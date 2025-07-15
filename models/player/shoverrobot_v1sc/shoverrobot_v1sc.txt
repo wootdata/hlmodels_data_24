@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shoverrobot
+Source Model Hash : d9e00f236977b5a6a10067752b0b86a9
+Source Model Date : 1269859253 (2010/03/29)
+
+Ported Model Name : shoverrobot_v1sc
+Ported Model Hash : ecf9f68d6c78ece9decfae9f8fa960b5
+Ported Model Date : 1752492273 (2025/07/14)

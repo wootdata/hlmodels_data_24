@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mc_bigote
+Source Model Hash : c8383d2f309f0c000c9255ab0bba5970
+Source Model Date : 1481591400 (2016/12/12)
+
+Ported Model Name : mc_bigote_v1sc
+Ported Model Hash : 266d67f9ce751ce0b4f8a46571df4a17
+Ported Model Date : 1752491996 (2025/07/14)

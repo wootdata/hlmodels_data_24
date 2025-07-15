@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nva-strich2summ
+Source Model Hash : 81da17ce280b4b1855773280249abd7d
+Source Model Date : 1538076480 (2018/09/27)
+
+Ported Model Name : nva-strich2summ_v1sc
+Ported Model Hash : ec82e72020d90eb2f1d4e73cdc3f8921
+Ported Model Date : 1752492109 (2025/07/14)

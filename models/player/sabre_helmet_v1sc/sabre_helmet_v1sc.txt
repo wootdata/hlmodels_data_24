@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sabre_helmet
+Source Model Hash : 1331bc26bdf342a67f28b0bb604e7ee2
+Source Model Date : 1269685731 (2010/03/27)
+
+Ported Model Name : sabre_helmet_v1sc
+Ported Model Hash : 89e6daf45ff32a2cfecae98764dcf55d
+Ported Model Date : 1752492232 (2025/07/14)

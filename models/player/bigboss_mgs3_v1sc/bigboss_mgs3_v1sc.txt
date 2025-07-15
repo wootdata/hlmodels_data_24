@@ -1,0 +1,37 @@
+Reskin: Wai 
+Model: Graves (converted by BigBadWoLf and JonHeat)
+
+This zip also includes 2 replacement outfit skins and 2 head skins so you could 
+pick the camouflage you like best. You can change it using the
+Half-Life model viewer (http://www.swissquake.ch/chumbalum-soft/hlmv/). Open the file, click on the textures tab, select the corresponding body and head texture from the list, import the body and head texture you want and save the model! XD
+
+=================================================================================================
+=================================================================================================
+=================================================================================================
+
+BigBoss
+
+ +Model      - Grave / Podunkian / TRP
+ +Skin       - Grave / Podunkian / TRP
+ +Animations - TS Dev Team / TRP
+ +Compile    - TRP
+ -Reskin     - Katsuta
+
+EVERYONE &$*#ING REMEMBER THAT I DID ALL THIS SKIN WORK!
+
+Enjoy MG Fans! :D <3
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bigboss_mgs3
+Source Model Hash : eb1c4011d0b9c051c20852febfca9316
+Source Model Date : 1465827724 (2016/06/13)
+
+Ported Model Name : bigboss_mgs3_v1sc
+Ported Model Hash : 158ee9838b9abba3876b70abd8542132
+Ported Model Date : 1752491428 (2025/07/14)

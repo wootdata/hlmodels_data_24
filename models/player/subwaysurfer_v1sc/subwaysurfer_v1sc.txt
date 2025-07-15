@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : subwaysurfer
+Source Model Hash : 3d7dfc3ff7f502e3a913e4d7b3c4d525
+Source Model Date : 1472477792 (2016/08/29)
+
+Ported Model Name : subwaysurfer_v1sc
+Ported Model Hash : aa7b5448e9c684e329bfb095536aed74
+Ported Model Date : 1752492349 (2025/07/14)

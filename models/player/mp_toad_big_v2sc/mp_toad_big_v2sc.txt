@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mp_toad_big_v2
+Source Model Hash : f26ba31d3e528201f76edcfd08b2f66c
+Source Model Date : 1703007356 (2023/12/19)
+
+Ported Model Name : mp_toad_big_v2sc
+Ported Model Hash : acb2825fbce27130827e7b99a57eeabe
+Ported Model Date : 1752492044 (2025/07/14)

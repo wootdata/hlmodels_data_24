@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cap_op4_shotgun
+Source Model Hash : 296403b6aebcb20a77d4ba4c6aadaaae
+Source Model Date : 1454169390 (2016/01/30)
+
+Ported Model Name : cap_op4_shotgun_v1sc
+Ported Model Hash : 3fa0d4daf3234a3adc5d7f30cff95f15
+Ported Model Date : 1752491462 (2025/07/14)

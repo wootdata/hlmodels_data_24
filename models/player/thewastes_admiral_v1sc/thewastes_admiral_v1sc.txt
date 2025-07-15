@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : thewastes_admiral
+Source Model Hash : 8792294134871720a3d27ee06b984bbc
+Source Model Date : 1267461292 (2010/03/01)
+
+Ported Model Name : thewastes_admiral_v1sc
+Ported Model Hash : c2f461306e8655c0d1d8551f891b5fba
+Ported Model Date : 1752492411 (2025/07/14)

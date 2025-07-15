@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : diepiify
+Source Model Hash : bb61984d58fdc606a8af7e3af0e8baff
+Source Model Date : 1644873995 (2022/02/14)
+
+Ported Model Name : diepiify_v1sc
+Ported Model Hash : 0aaba8c97600549397836cb80b1b3e9f
+Ported Model Date : 1752491598 (2025/07/14)

@@ -1,0 +1,26 @@
+Credit:
+
+Character by Rooster Teeth
+http://roosterteeth.com/
+
+MMD model made by whimsicottsh
+http://www.deviantart.com/art/MMD-TEAM-RWBY-DOWNLOAD-552556295
+
+
+
+modified and converted to .mdl by takedeppo.50cal ....(^^;)b yay
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rwby_weissschnee
+Source Model Hash : adec67bb2204bf38d8da4c8a496a80f0
+Source Model Date : 1462416122 (2016/05/04)
+
+Ported Model Name : rwby_weissschnee_v1sc
+Ported Model Hash : 3966dc917e8addda621101c1917fdb0f
+Ported Model Date : 1752492229 (2025/07/14)

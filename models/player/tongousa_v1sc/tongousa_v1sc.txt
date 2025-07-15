@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tongousa
+Source Model Hash : 107bc4effbb4000714cceac4b98c765c
+Source Model Date : 1589092282 (2020/05/09)
+
+Ported Model Name : tongousa_v1sc
+Ported Model Hash : c6cb3cdc74829b696215433425e6cc0c
+Ported Model Date : 1752492429 (2025/07/14)

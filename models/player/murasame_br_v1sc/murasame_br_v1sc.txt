@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : murasame_br
+Source Model Hash : 436cdfd2429ccffc90d9120b1ede9fea
+Source Model Date : 1619808243 (2021/04/30)
+
+Ported Model Name : murasame_br_v1sc
+Ported Model Hash : f0571a50f20e97dda501c1e288b498e9
+Ported Model Date : 1752492049 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nvagreen_v2
+Source Model Hash : 939ca76c6f199ef5dd02ee77ce119f8e
+Source Model Date : 1583660131 (2020/03/08)
+
+Ported Model Name : nvagreen_v2sc
+Ported Model Hash : 06bd6467be6058b716114cffd3440355
+Ported Model Date : 1752492109 (2025/07/14)

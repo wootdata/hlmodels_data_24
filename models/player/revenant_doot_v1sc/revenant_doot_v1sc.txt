@@ -1,0 +1,19 @@
+To install the model, the model should be placed at: "Sven co-op/svencoop_addon/models/player"
+the model SHOULD NOT be installed in the core folder.
+
+I do not claim to have made this model.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : revenant_doot
+Source Model Hash : 5d9ac6710631cd796fbb615286c10e90
+Source Model Date : 1569180124 (2019/09/22)
+
+Ported Model Name : revenant_doot_v1sc
+Ported Model Hash : bb03cd3a45eea94edafe912c0637be43
+Ported Model Date : 1752492202 (2025/07/14)

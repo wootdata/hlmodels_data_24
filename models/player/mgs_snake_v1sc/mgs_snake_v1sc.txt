@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mgs_snake
+Source Model Hash : 3c89e51f4fdb1f9118aad56e9b4ef406
+Source Model Date : 1457125650 (2016/03/04)
+
+Ported Model Name : mgs_snake_v1sc
+Ported Model Hash : 27843471943a2312d961885dcff9e4e5
+Ported Model Date : 1752492010 (2025/07/14)

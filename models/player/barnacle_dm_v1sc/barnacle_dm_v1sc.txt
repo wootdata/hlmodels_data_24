@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : barnacle_dm
+Source Model Hash : ef54846ce4782b208f7fa9374808e052
+Source Model Date : 1736527493 (2025/01/10)
+
+Ported Model Name : barnacle_dm_v1sc
+Ported Model Hash : ceaa666dc4dee38636b7af236e865799
+Ported Model Date : 1752491401 (2025/07/14)

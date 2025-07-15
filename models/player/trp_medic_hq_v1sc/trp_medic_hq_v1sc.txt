@@ -1,0 +1,22 @@
+Drawn Polys: 2,397
+Original Mesh: One Eyed Newt
+Player Conversion: R@p7oR
+SC3 Animations: R@p7oR
+
+Original TFC skin Texture/recolor by: T.R.P
+Textures lazily and effortlessly swapped by: Ali the emo bitch
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trp_medic_hq
+Source Model Hash : 4352041708788881a6fd61f218163edf
+Source Model Date : 1584839833 (2020/03/21)
+
+Ported Model Name : trp_medic_hq_v1sc
+Ported Model Hash : d0c837bb7a86dcd78a6eb8e3bd1a5faa
+Ported Model Date : 1752492460 (2025/07/14)

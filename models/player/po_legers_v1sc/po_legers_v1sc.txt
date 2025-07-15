@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : po_legers
+Source Model Hash : 32a5f6aecf97c4bfa63b67fe734b4c52
+Source Model Date : 1497387369 (2017/06/13)
+
+Ported Model Name : po_legers_v1sc
+Ported Model Hash : 8a3ca911123adaef0cebfe8a1611aca7
+Ported Model Date : 1752492166 (2025/07/14)

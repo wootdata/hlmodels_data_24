@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cscz2_gsg9
+Source Model Hash : 65217021b6e2369d62d6586ad8bb6c54
+Source Model Date : 1586032026 (2020/04/04)
+
+Ported Model Name : cscz2_gsg9_v1sc
+Ported Model Hash : 9fce3dcd52befacae5d86bcd60b70c2d
+Ported Model Date : 1752491543 (2025/07/14)

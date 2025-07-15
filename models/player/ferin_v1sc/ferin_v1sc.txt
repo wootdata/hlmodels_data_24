@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ferin
+Source Model Hash : 72689b671ff2082dcfca927beda1fe37
+Source Model Date : 1634833448 (2021/10/21)
+
+Ported Model Name : ferin_v1sc
+Ported Model Hash : fd69d9cc717b11e635e0ddf94919a476
+Ported Model Date : 1752491649 (2025/07/14)

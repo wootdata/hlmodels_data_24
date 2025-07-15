@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : marionette
+Source Model Hash : 9d285deafbb9e554b635677c5cb9dd1f
+Source Model Date : 1441958348 (2015/09/11)
+
+Ported Model Name : marionette_v1sc
+Ported Model Hash : c8398d04aa5955d0cb9112eec5329e91
+Ported Model Date : 1752491987 (2025/07/14)

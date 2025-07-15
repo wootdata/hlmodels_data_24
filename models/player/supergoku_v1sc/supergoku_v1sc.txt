@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : supergoku
+Source Model Hash : 44f3dc9118cfcbc93d4819487fb840af
+Source Model Date : 1269965241 (2010/03/30)
+
+Ported Model Name : supergoku_v1sc
+Ported Model Hash : 9e190848f13dc24a14aa2adf7fe60634
+Ported Model Date : 1752492350 (2025/07/14)

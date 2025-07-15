@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : g_707th - copia (5)
+Source Model Hash : de70d12ea48888ff0f895db715de6c59
+Source Model Date : 1652550727 (2022/05/14)
+
+Ported Model Name : g_707th_copy5_v1sc
+Ported Model Hash : 1db295933938894b7019ece001a8c6c3
+Ported Model Date : 1752491761 (2025/07/14)

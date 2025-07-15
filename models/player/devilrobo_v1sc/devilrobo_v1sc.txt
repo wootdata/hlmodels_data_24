@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : devilrobo
+Source Model Hash : 71e49fd55fa6e908d74694291d7c4967
+Source Model Date : 1284585746 (2010/09/15)
+
+Ported Model Name : devilrobo_v1sc
+Ported Model Hash : c7acf669fc9996f67f78e356644d711f
+Ported Model Date : 1752491595 (2025/07/14)

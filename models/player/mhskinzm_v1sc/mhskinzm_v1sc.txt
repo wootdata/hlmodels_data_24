@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mhskinzm
+Source Model Hash : bf6b862eb5c9ce76ec4b73d6d6dc5223
+Source Model Date : 1629414143 (2021/08/19)
+
+Ported Model Name : mhskinzm_v1sc
+Ported Model Hash : a420b980600f3f079a0f6cd8031b1775
+Ported Model Date : 1752492013 (2025/07/14)

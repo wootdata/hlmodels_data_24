@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_junkie
+Source Model Hash : 9e17ddac628bf19885854d1b8a47952b
+Source Model Date : 1694641832 (2023/09/13)
+
+Ported Model Name : ahl_junkie_v1sc
+Ported Model Hash : 9db94c11158befa61a16bb91f25e320f
+Ported Model Date : 1752491342 (2025/07/14)

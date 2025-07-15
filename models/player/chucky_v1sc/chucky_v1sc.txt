@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chucky
+Source Model Hash : 25fe8d8953c3db09cc505f427a758f05
+Source Model Date : 1435849544 (2015/07/02)
+
+Ported Model Name : chucky_v1sc
+Ported Model Hash : c1b16e9f7d4891f403b949d58c07d90f
+Ported Model Date : 1752491475 (2025/07/14)

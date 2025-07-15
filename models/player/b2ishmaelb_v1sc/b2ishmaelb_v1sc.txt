@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : b2ishmaelb
+Source Model Hash : b579351424b4987f6172618526cc732e
+Source Model Date : 1615536692 (2021/03/12)
+
+Ported Model Name : b2ishmaelb_v1sc
+Ported Model Hash : adf5ed83eca4a05e97c27d41bb59f086
+Ported Model Date : 1752491395 (2025/07/14)

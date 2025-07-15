@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oldsuit_green1
+Source Model Hash : facfd3955c3012afaf7b0dcc806f0ade
+Source Model Date : 1497562055 (2017/06/15)
+
+Ported Model Name : oldsuit_green1_v1sc
+Ported Model Hash : 22b544e846e92b37e15ef9715540cf80
+Ported Model Date : 1752492115 (2025/07/14)

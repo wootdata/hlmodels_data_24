@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nsmbw_ludwig
+Source Model Hash : 48d67cc864e64f1db68038de324f1993
+Source Model Date : 1493882443 (2017/05/04)
+
+Ported Model Name : nsmbw_ludwig_v1sc
+Ported Model Hash : 8fe9c3f8ba988ca0685ef15b965e0d3b
+Ported Model Date : 1752492104 (2025/07/14)

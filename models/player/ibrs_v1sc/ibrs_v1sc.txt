@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ibrs
+Source Model Hash : c8a388e702b405e8237c7422d3c90a61
+Source Model Date : 1441648716 (2015/09/07)
+
+Ported Model Name : ibrs_v1sc
+Ported Model Hash : 6c18e1d6f400afb262e5a5233064709a
+Ported Model Date : 1752491842 (2025/07/14)

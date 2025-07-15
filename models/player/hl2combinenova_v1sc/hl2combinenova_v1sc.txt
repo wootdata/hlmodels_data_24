@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hl2combinenova
+Source Model Hash : 078ec5b4388367784f9329d706a6b493
+Source Model Date : 1443394800 (2015/09/27)
+
+Ported Model Name : hl2combinenova_v1sc
+Ported Model Hash : de68aa0c1260641f4d8c311b28559621
+Ported Model Date : 1752491801 (2025/07/14)

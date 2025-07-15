@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mk9_smoke
+Source Model Hash : 4b879d52e86a862fac7bfb00da152e33
+Source Model Date : 1455234576 (2016/02/11)
+
+Ported Model Name : mk9_smoke_v1sc
+Ported Model Hash : 01aed834da8519d8d73ae321ee28813c
+Ported Model Date : 1752492032 (2025/07/14)

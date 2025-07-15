@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xmasrepman
+Source Model Hash : c45fa13dd535f4a9de62b885cb566397
+Source Model Date : 1262802418 (2010/01/06)
+
+Ported Model Name : xmasrepman_v1sc
+Ported Model Hash : 59e3239dc4ca557a937747567569e428
+Ported Model Date : 1752492517 (2025/07/14)

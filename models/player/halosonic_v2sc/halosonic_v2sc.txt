@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : halosonic_v2
+Source Model Hash : 0d534a8a29aaf9b55000c689655814cf
+Source Model Date : 1583889464 (2020/03/10)
+
+Ported Model Name : halosonic_v2sc
+Ported Model Hash : ef32cec4fde6e4b29038a0aba239b018
+Ported Model Date : 1752491764 (2025/07/14)

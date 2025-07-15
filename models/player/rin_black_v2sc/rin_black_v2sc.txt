@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rin_black_v2
+Source Model Hash : 58df5b1deab3dec9aee928b5491b2644
+Source Model Date : 1581886023 (2020/02/16)
+
+Ported Model Name : rin_black_v2sc
+Ported Model Hash : e2a9b9c9f778519664af833b10081865
+Ported Model Date : 1752492217 (2025/07/14)

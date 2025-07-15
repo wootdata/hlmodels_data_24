@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_yaemiko
+Source Model Hash : d79b7307e842fca12261fe0a577ad5b1
+Source Model Date : 1648229836 (2022/03/25)
+
+Ported Model Name : gi_yaemiko_v1sc
+Ported Model Hash : c794ebdf1477dc94a8031696fa956914
+Ported Model Date : 1752491726 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dainippon1
+Source Model Hash : 8a996a8dcf668b325be1229093502e6b
+Source Model Date : 1266829824 (2010/02/22)
+
+Ported Model Name : dainippon1_v1sc
+Ported Model Hash : a578a70c1578999861dbe07e1a24a547
+Ported Model Date : 1752491575 (2025/07/14)

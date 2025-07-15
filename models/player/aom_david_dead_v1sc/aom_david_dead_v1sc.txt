@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : david_leatherhoff_dead
+Source Model Hash : 14b83d19a43657c0d922b03f723fdacc
+Source Model Date : 1404707632 (2014/07/06)
+
+Ported Model Name : aom_david_dead_v1sc
+Ported Model Hash : 0769c41d36c994d58fa8392a8e4c2f73
+Ported Model Date : 1752491582 (2025/07/14)

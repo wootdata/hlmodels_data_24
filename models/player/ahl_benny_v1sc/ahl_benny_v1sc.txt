@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ahl_benny
+Source Model Hash : 100af8ba32b556561a0b2c190b535935
+Source Model Date : 1700903939 (2023/11/25)
+
+Ported Model Name : ahl_benny_v1sc
+Ported Model Hash : 2a169377bd0b35dc165e493b071d0493
+Ported Model Date : 1752491340 (2025/07/14)

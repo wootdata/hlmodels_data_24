@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gcatman
+Source Model Hash : 01e71dbd9c85aa22526923b58ad0665d
+Source Model Date : 1457036412 (2016/03/03)
+
+Ported Model Name : gcatman_v1sc
+Ported Model Hash : d701ce9b9560e2ae5038bc30c8b91ac3
+Ported Model Date : 1752491673 (2025/07/14)

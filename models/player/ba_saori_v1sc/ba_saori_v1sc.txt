@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ba_saori
+Source Model Hash : 5e9560b1825e9f14af9e227f2c62b618
+Source Model Date : 1678437878 (2023/03/10)
+
+Ported Model Name : ba_saori_v1sc
+Ported Model Hash : 76f90d8f13f7f1477fff6fcec587135a
+Ported Model Date : 1752491416 (2025/07/14)

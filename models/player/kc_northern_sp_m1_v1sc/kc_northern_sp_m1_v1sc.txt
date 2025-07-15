@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kc_northern_splicer_m1
+Source Model Hash : 0c74cb43118f54e31e897a5503074f97
+Source Model Date : 1664020670 (2022/09/24)
+
+Ported Model Name : kc_northern_sp_m1_v1sc
+Ported Model Hash : bd689f7c18412ad6f7b410058b9aec11
+Ported Model Date : 1752491878 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_norfoldlady
+Source Model Hash : 4cf2bc43208bb7834a0385a134c1b671
+Source Model Date : 1622999213 (2021/06/06)
+
+Ported Model Name : 2d_norfoldlady_v1sc
+Ported Model Hash : 8f032df2037f19443cda720350c37b67
+Ported Model Date : 1752491317 (2025/07/14)

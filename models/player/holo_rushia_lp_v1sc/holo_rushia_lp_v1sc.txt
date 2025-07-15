@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : holo_rushia_lowpoly
+Source Model Hash : ced9b3c04e629fd970a720baa01270a8
+Source Model Date : 1618407577 (2021/04/14)
+
+Ported Model Name : holo_rushia_lp_v1sc
+Ported Model Hash : daf6d979e237b2a9ceb616d9d53716d5
+Ported Model Date : 1752491826 (2025/07/14)

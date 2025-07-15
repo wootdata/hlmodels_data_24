@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gandalf
+Source Model Hash : fdbd885431af90e45db31b1373d68ae6
+Source Model Date : 1265120422 (2010/02/02)
+
+Ported Model Name : gandalf_v1sc
+Ported Model Hash : 7f4af7438865bf46ed88b9aa5ec14fee
+Ported Model Date : 1752491670 (2025/07/14)

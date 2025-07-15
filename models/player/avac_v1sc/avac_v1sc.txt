@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : avac
+Source Model Hash : eafaad5c9070bd23bc7b62c9dba7eb13
+Source Model Date : 1262713650 (2010/01/05)
+
+Ported Model Name : avac_v1sc
+Ported Model Hash : 853bf0fb75865c72d15c8a8dd0997c99
+Ported Model Date : 1752491388 (2025/07/14)

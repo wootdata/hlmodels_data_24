@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : capt-hornet_v2
+Source Model Hash : a270df18d17e948a03976902c2dbb06e
+Source Model Date : 1582972953 (2020/02/29)
+
+Ported Model Name : capt-hornet_v2sc
+Ported Model Hash : 863025ca384e9ba69d87fa9fcc41b3a2
+Ported Model Date : 1752491459 (2025/07/14)

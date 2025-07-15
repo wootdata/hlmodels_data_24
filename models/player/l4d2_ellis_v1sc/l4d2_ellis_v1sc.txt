@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : l4d2_ellis
+Source Model Hash : 020c7b74e882ca05d9b8eb696ee49cb3
+Source Model Date : 1284945488 (2010/09/19)
+
+Ported Model Name : l4d2_ellis_v1sc
+Ported Model Hash : c3ca12401e8ae131ce06d85e72148192
+Ported Model Date : 1752491934 (2025/07/14)

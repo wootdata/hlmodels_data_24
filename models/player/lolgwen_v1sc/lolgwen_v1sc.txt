@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lolgwen
+Source Model Hash : 1b5b88900a03aa7b313ca9ce12ac6e34
+Source Model Date : 1620090914 (2021/05/03)
+
+Ported Model Name : lolgwen_v1sc
+Ported Model Hash : e7c8fcbe1d6ff611af4ac24bf985bdc9
+Ported Model Date : 1752491957 (2025/07/14)

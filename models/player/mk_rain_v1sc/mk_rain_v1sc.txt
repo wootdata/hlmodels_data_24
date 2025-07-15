@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mk_rain
+Source Model Hash : 93b0f18764a44edcad8cafdb2d278940
+Source Model Date : 1455366882 (2016/02/13)
+
+Ported Model Name : mk_rain_v1sc
+Ported Model Hash : c224236a6c75b7ae73aa3aaf1f10abb9
+Ported Model Date : 1752492033 (2025/07/14)
