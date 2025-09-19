@@ -1,0 +1,13 @@
+#############################################
+#     Ordre des Corsaires de la Liberte     #
+#         http://www.corsaires.net          #
+#                                           #
+#                  ocl.mdl                  #
+#                                           #
+#          skin by [OCL]-Cuchulainn         #
+#          cuchulainn@corsaires.net         #
+#############################################
+
+This skin is based upon the gordon.mdl classical model.
+Its the second version of Clan [OCL] official skin.
+This was achieved on 11/08/99, have fun with it !
